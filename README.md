@@ -1,5 +1,5 @@
 # BugBountyCTF-Reports
-This repository contains fully disclosed accepted reports for the null Ahmedabad's Bug Bounty CTF.
+This repository contains fully disclosed accepted reports of the null Ahmedabad's Bug Bounty CTF.
 
 ## Reports
 
